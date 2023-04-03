@@ -13,4 +13,4 @@
 [![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=Vk&logoColor=00008B)](https://vk.com/ddipayddiday)
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=00BFFF)](https://t.me/tmlef)
 
-![Leetcode Stats](https://leetcode.com/2ctoo13/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/2ctoo13)
