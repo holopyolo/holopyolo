@@ -11,7 +11,7 @@
 [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=00008B)](https://www.postgresql.org/)
 
 ### Courses
-[![Yandex 3.0_algorithms](https://img.shields.io/badge/Yandex-3.0-algorithms-blue?style=for-the-badge&logo=yandex&logoColor=FF0000)](https://yandex.ru/yaintern/algorithm-training)
+[![Yandex-3-0-algorithms](https://img.shields.io/badge/Yandex-3-0-algorithms-blue?style=for-the-badge&logo=yandex&logoColor=FF0000)](https://yandex.ru/yaintern/algorithm-training)
 
 
 ### Contact
