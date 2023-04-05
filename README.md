@@ -11,8 +11,8 @@
 [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=00008B)](https://www.postgresql.org/)
 
 ### Education
-## MIREA — Russian Technological University, 2026
-## Bachelor's degree, Software engineering
+#### MIREA — Russian Technological University, 2026
+#### Bachelor's degree, Software engineering
 
 ### Courses
 [![Yandex-3-0-algorithms](https://img.shields.io/badge/Yandex_3_0_Algorithms-blue?style=flat-square&logo=yand&logoColor=FF0000)](https://yandex.ru/yaintern/algorithm-training)
