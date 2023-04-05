@@ -3,7 +3,7 @@
 ## Beginner Machine Learning Engineer
 
 ### About myself
-
+#### As a novice Machine Learning Engineer, I am enthusiastic about leveraging data and algorithms to drive business outcomes. Proficient in ptytorch, I have experience building Object Detection, Object classifier, NLP models. Continual learning and skill expansion are my top priorities in this rapidly evolving field.
 ### Languages and tools
 [![PyTorch](https://img.shields.io/badge/PyTorch-blue?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit-blue?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/stable/)
