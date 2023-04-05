@@ -17,7 +17,7 @@
 #### Bachelor's degree, Software engineering
 
 ### Projects
-#### - Currently working on text classifier Russian's essays with using transformers
+#### - Currently working on text classifier for Russian's essays with using transformers
 
 ### Courses
 [![Yandex-3-0-algorithms](https://img.shields.io/badge/Yandex_3_0_Algorithms-blue?style=flat-square&logo=yand&logoColor=FF0000)](https://yandex.ru/yaintern/algorithm-training)
