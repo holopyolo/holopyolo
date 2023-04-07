@@ -1,4 +1,3 @@
-![Header](https://github.com/holopyolo/holopyolo/blob/main/oh1.png)
 
 ## Beginner Machine Learning Engineer
 
